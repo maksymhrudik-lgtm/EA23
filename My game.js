@@ -2,7 +2,7 @@ console.log("Гра «Битва з монстром»");
 
 const player = {
   name: "Пан Максим",
-  health: 40,
+  health: 100,
   attack: 20
 };
 
